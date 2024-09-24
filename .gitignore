@@ -1,0 +1,76 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# H2 database files
+*.h2.db
+*.mv.db
+
+# Maven build directories
+/target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Spring Boot DevTools settings
+spring-boot-devtools.properties
+
+# Maven POM and Eclipse Maven nature
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Windows Thumbnails
+Thumbs.db
+
+# macOS finder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS directory attributes
+Icon?
+._*
+
+# Windows system files
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDEs
+.idea/
+*.iml
+*.iws
+
+# Maven wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+/.mvn/
+!.mvn/wrapper/maven-wrapper.properties
+
+# Environment variable settings
+.env
+*.env
+
+# JetBrains IDEs
+.idea/
+*.iml
